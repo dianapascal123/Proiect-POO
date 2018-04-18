@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1523976884 source:e:\oop\laborator\proiect 1\main.cpp
+	"Multime_perechi.h"
+	<fstream>
+	<cstdlib>
+
+1523975756 e:\oop\laborator\proiect 1\multime_perechi.h
+	"Pereche.h"
+	"Multime.h"
+
+1523975288 e:\oop\laborator\proiect 1\pereche.h
+	<iostream>
+
+1523975175 e:\oop\laborator\proiect 1\multime.h
+	<iostream>
+
+1523976636 source:e:\oop\laborator\proiect 1\pereche.cpp
+	"Pereche.h"
+
+1523976395 source:e:\oop\laborator\proiect 1\multime.cpp
+	"Multime.h"
+
+1523976695 source:e:\oop\laborator\proiect 1\multime_perechi.cpp
+	"Multime_perechi.h"
+
